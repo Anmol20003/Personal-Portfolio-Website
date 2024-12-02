@@ -460,16 +460,16 @@ ion-icon {
 
 .education-year {
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 .education-title {
-  font-size: 1.2rem;
+  font-size: 1.7rem;
   margin: 10px 0;
 }
 
 .education-institution {
-  font-size: 1rem;
+  font-size: 2rem;
   color: white;
 }
 
