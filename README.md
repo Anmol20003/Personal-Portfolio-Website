@@ -22,7 +22,7 @@ No additional software or tools are required other than a web browser.
 
 **Steps:**
 1. Clone the repository:
-git clone https://github.com/yourusername/personal-portfolio-website.git
+git clone https://github.com/Anmol20003/Personal-Portfolio-Website.git
 
 2. Navigate to the project folder:
 cd personal-portfolio-website
